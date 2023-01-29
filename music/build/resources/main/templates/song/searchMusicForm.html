@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+<div class="container">
+    <form action="/song/search" method="post">
+        <div class="form-group" align="center">
+            <img src="https://www.kangwon.ac.kr/site/www/images/contents/cts23_img.png" alt="My Image">
+            <h1><a href="/">곰두리 차트</a></h1>
+            <p><label for="name">노래 제목</label>
+                <input type="text" id="name" name="name" placeholder="노래 제목을 입력하세요.">
+            </p>
+            <p><label for="singer">가수</label>
+                <input type="text" id="singer" name="singer" placeholder="가수를 입력하세요.">
+            </p>
+            <p><label for="genre">장르</label>
+                <input type="text" id="genre" name="genre" placeholder="장르를 입력하세요.">
+            </p>
+        </div>
+        <div align="center">
+            <button type="submit">검색</button>
+            <button type="reset">취소</button>
+        </div>
+    </form>
+</div>
+</body>
+</html>
