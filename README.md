@@ -54,4 +54,8 @@
 
 ###
 
-Spring Boot 사용
+Spring Boot 사용 프로젝트
+
+jdk 11
+
+MVC 패턴 사용
