@@ -46,3 +46,12 @@
 위와 같이 곰두리 차트 목록 중에서 dance 장르만 검색하고 싶다면 위와 같이 장르에 dance를 입력 후 검색 버튼을 누르면 된다. 그러면 %dance% 장르에 맞는 음악들을 검색해 준다.
  
  ![image](https://user-images.githubusercontent.com/79496557/220836720-f273e20f-d8e6-49e9-8856-978a6c8f2b2e.png)
+
+
+
+
+
+
+###
+
+Spring Boot 사용
